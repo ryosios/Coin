@@ -1,0 +1,13 @@
+{
+  "name": "Coin.Game.Tests.EditMode",
+  "rootNamespace": "Coin.Game.Tests",
+  "references": [
+    "Coin.Game.Runtime"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
